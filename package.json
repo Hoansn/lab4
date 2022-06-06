@@ -20,10 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nguyenhoanghuy1311/lab3.git"
-  },
-  "bugs": {
-    "url": "https://github.com/nguyenhoanghuy1311/lab3/issues"
-  },
-  "homepage": "https://github.com/nguyenhoanghuy1311/lab3#readme"
+    "url": "git+https://github.com/Hoansn/lab4.git"
+  }
 }
